@@ -1,6 +1,7 @@
 <h2>Product Item</h2>
 
 <div *ngIf="product">
+  <p> <img src="{{product.image}}"></p>
   <h3>{{ product.name }}</h3>
   <h4>{{ product.price | currency }}</h4>
   <h4>{{ product.rating }}</h4>
@@ -11,16 +12,3 @@
     <button type="button">Share</button>
   </a>
 </div>
-
-<!--
-    id: number;
-  item: number;
-  name: string;
-  description: string;
-  rating: string;
-
-<form action="https://www.amazon.com/Apple-iPhone-Alpine-Carrier-Subscription/dp/B09V3KDW63?ref_=ast_sto_dp&th=1&psc=1" target="_blank">
-    <button type="button">Share</button>
-   </form>
-  <button type="button" >Share</button>
--->

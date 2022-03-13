@@ -18,7 +18,7 @@ export const products = [
   },
   {
     id: 2,
-    image:"url:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.expansys.com.hk%2Fapple-iphone-13-pro-max-5g-dual-sim-256gb-sierra-blue-363610%2F&psig=AOvVaw0zoDp_Cpua4GhrlPE7E56y&ust=1647265200520000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDaq5ubw_YCFQAAAAAdAAAAABAD",
+    image:"https://m.media-amazon.com/images/I/61AwGDDZd3L._FMwebp__.jpg",
     name: 'IPhone 13 Pro',
     description: 'A great phone with one of the best cameras',
     price: 999,
@@ -26,7 +26,7 @@ export const products = [
   },
   {
     id: 3,
-    image:"url:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.expansys.com.hk%2Fapple-iphone-13-pro-max-5g-dual-sim-256gb-sierra-blue-363610%2F&psig=AOvVaw0zoDp_Cpua4GhrlPE7E56y&ust=1647265200520000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDaq5ubw_YCFQAAAAAdAAAAABAD",
+    image:"https://m.media-amazon.com/images/I/61-r9zOKBCL._FMwebp__.jpg",
     name: 'IPhone 12',
     description: '',
     price: 829,
